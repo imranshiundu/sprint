@@ -1,5 +1,6 @@
 package sprint;
 
+
 public class ArrayInitializer {
     public int[] fillArray(int max) {
         if (max < 1) {

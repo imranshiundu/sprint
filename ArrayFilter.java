@@ -1,5 +1,6 @@
 package sprint;
 
+
 public class ArrayFilter {
 
     public int[][] filterBySum(int[][] array, int value) {

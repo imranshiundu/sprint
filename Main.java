@@ -1,5 +1,5 @@
-import sprint.ArrayFilter;
 import java.util.Arrays;
+import sprint.ArrayFilter;
 
 public class Main {
 

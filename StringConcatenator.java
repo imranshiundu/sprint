@@ -1,5 +1,6 @@
 package sprint;
 
+
 public class StringConcatenator {
 
     public String concatenate(String... strings) {
